@@ -4,14 +4,14 @@ package lesson2.book;
  * Created by Hamster4n.
  */
 public class Book {
-    int id;
-    String title;
-    String author;
-    String publishingHouse;
-    int yearOfPublishing;
-    int numberOfPages;
-    float price;
-    String bindingType;
+    private int id;
+    private String title;
+    private String author;
+    private String publishingHouse;
+    private int yearOfPublishing;
+    private int numberOfPages;
+    private float price;
+    private String bindingType;
 
     public Book(){
 
